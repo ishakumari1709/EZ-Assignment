@@ -109,9 +109,13 @@ All models are downloaded via the Hugging Face `transformers` and `sentence-tran
 - Document snippet justifications in all responses.
 - Memory-based follow-up and answer highlighting planned.
 
-## Optional Demo (If Applicable)
+## Demo 
 
-You can record a 2–3 minute walkthrough using Loom or YouTube and add the link here.
+For Summary ![Screenshot 2025-06-28 220906](https://github.com/user-attachments/assets/9c71e2d9-71bd-4416-8ec7-d9976071fa73)
+For Questioning ![Screenshot 2025-06-28 221756](https://github.com/user-attachments/assets/d286f050-f52e-427b-be58-fd600fd442a3)
+For Challenge me ![Screenshot 2025-06-28 221911](https://github.com/user-attachments/assets/d99d06f8-9140-4fda-81c5-15cde0188945)
+
+
 
 ## License
 
